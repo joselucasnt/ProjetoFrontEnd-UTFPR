@@ -30,11 +30,11 @@ A plataforma foi desenhada para contribuir diretamente com a agenda global, foca
 
 
 ## 👥 Equipe Desenvolvedora
-* **Ricardo Marchezan** - [GitHub](COLOQUE_O_SEU_LINK_AQUI) | [Currículo](COLOQUE_O_SEU_LINK_AQUI)
+* **Ricardo Marchezan** - [GitHub](https://github.com/ricardomarchezan) | [Currículo](https://ricardomarchezan.github.io/programacaowebfrontutfpr/)
 * **José Lucas Nóbrega Trautwein** - [GitHub](COLOQUE_O_LINK_DELE_AQUI) | [Currículo](COLOQUE_O_LINK_DELE_AQUI)
 * **João Guilherme Nóbrega Trautwein** - [GitHub](COLOQUE_O_LINK_DELE_AQUI) | [Currículo](COLOQUE_O_LINK_DELE_AQUI)
 
 ## 🚀 Acesso ao Projeto
 O layout final da aplicação está hospedado via GitHub Pages.
 
-👉 **[Acessar o portal EcoTech CP](COLOQUE_O_LINK_DO_GITHUB_PAGES_DO_PROJETO_AQUI)**
+👉 **[Acessar o portal EcoTech CP](https://ricardomarchezan.github.io/ProjetoFrontEnd-UTFPR/)**
