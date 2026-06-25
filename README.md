@@ -31,8 +31,8 @@ A plataforma foi desenhada para contribuir diretamente com a agenda global, foca
 
 ## 👥 Equipe Desenvolvedora
 * **Ricardo Marchezan** - [GitHub](https://github.com/ricardomarchezan) | [Currículo](https://ricardomarchezan.github.io/programacaowebfrontutfpr/)
-* **José Lucas Nóbrega Trautwein** - [GitHub](COLOQUE_O_LINK_DELE_AQUI) | [Currículo](COLOQUE_O_LINK_DELE_AQUI)
-* **João Guilherme Nóbrega Trautwein** - [GitHub](COLOQUE_O_LINK_DELE_AQUI) | [Currículo](COLOQUE_O_LINK_DELE_AQUI)
+* **José Lucas Nóbrega Trautwein** - [GitHub](LINK) | [Currículo](LINK)
+* **João Guilherme Nóbrega Trautwein** - [GitHub](LINK) | [Currículo](LINK)
 
 ## 🚀 Acesso ao Projeto
 O layout final da aplicação está hospedado via GitHub Pages.
